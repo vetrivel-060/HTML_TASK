@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: rgb(173, 192, 192)">
+    <section>
+      <center>
+        <table
+          border="2px"
+          style="background-color: rgb(201, 191, 191); color: rgb(76, 61, 143) ">
+          <caption>college</caption>
+          <tr
+            style="
+              background-color: rgb(123, 114, 131);
+              text-align: center;
+              font-style: italic;">
+            <td colspan="5"> education</colspan=></td>
+          </tr>
+          <thead>
+          <tr>
+            <td style="color: rgb(30, 146, 40)">s.No</td>
+            <td style="color: blueviolet">year</td>
+            <td>year of passing</td>
+            <td>percentage</td>
+        </thead>
+          </tr>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>2027</td>
+              <td>kg college</td>
+              <td>66</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>2027</td>
+              <td>sns college</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>2027</td>
+              <td>kumarakuru college</td>
+              <td>80</td>
+            </tr>
+          </tbody>
+        </table>
+      </center>
+      <table>
+        <tr>
+            <td>
+                <img src="https://marketplace.canva.com/EAFtLMllF3s/1/0/1600w/canva-blue-and-gold-simple-certificate-zxaa6yB-uaU.jpg" alt="no coorect uimage" height="100px" width="100px">
+            </td>
+            <td>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3jG3fUBZ0_m_2f5yQ8qnZT5JJF4Gyyx49CCZPllwSmHfsW7BphFEmiK905hxBu6J-FQ&usqp=CAU" alt="no coorect uimage" height="100px" width="100px">
+            </td>
+        </tr>
+      </table>
+    </section>
+  </body>
+</html>
+
+
