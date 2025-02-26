@@ -53,8 +53,8 @@
       </div>
       <div>
         <label>Gender</label>
-        <input type="radio" name="gender" value="Male" />Male
-        <input type="radio" name="gender" value="Female" checked />Female
+        <input type="radio" name="gender" value="Male"checked />Male
+        <input type="radio" name="gender" value="Female" />Female
       </div>
       <div>
         <label>Skills</label>
